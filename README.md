@@ -12,8 +12,9 @@ Up and Down Scrolls
 A (or Enter) Selects
 
 Python Requirement: Curses (pip3 install curses)
+Raspberry Pi Requirement: Internet Connection
 
-todo:
+todo or nottodo:
 Add Directory Creation (auto?)
 Clean up GUI
 Add Search (?)
