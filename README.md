@@ -3,7 +3,7 @@ Can be used in EmulationStation Menu (just add the bash script in the folder)
 
 Installation:
 1 - Put the MyGrbbr.py in your $HOME/RetroPie/roms folder
-2 - Put the MyGrbbr.py in your $HOME/RetroPie/menu folder
+2 - Put the MyGrbbr.sh in your $HOME/RetroPie/menu folder and MyGrbbr.png in the icons folder
 3 - Restart EmulationStation and use from the RetroPie Menu
 
 Controls:
